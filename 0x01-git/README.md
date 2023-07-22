@@ -1,1 +1,1 @@
-All about git
+All about git repositories
